@@ -1,5 +1,6 @@
 ### Results 
-<img width="1880" height="447" alt="image" src="https://github.com/user-attachments/assets/7ee1b3e6-002c-44d1-b908-6e74aed14d0e" />
+<img width="1880" height="446" alt="image" src="https://github.com/user-attachments/assets/84f1f876-56a0-4d8b-8c45-5d79c5f163b6" />
+
 ## Google Earth Ore Detection Project
 
 # Ore Zone Detection from Google Earth Images
